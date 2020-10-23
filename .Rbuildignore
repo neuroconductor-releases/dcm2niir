@@ -14,3 +14,7 @@ README$
 makefile$
 
 ^configure\.win\.test$
+^DESCRIPTION\.bak$
+^\.travis\.yml$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
